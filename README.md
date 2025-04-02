@@ -1,5 +1,7 @@
 # USAGE
 
+`npm i`
+
 Read Call
 
 ```ts
