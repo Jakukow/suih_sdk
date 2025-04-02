@@ -1,0 +1,28 @@
+{
+  "name": "sdksub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@mysten/sui.js": "^0.54.1",
+    "base-x": "^4.0.1",
+    "bech32": "^2.0.0",
+    "bs58": "^5.0.0",
+    "fs": "^0.0.1-security",
+    "gql.tada": "^1.8.10",
+    "graphql": "^16.10.0",
+    "superstruct": "^1.0.4",
+    "tweetnacl": "^1.0.3",
+    "typescript": "^5.8.2",
+    "undici-types": "^6.20.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.14.0"
+  }
+}
